@@ -1,0 +1,44 @@
+David Ngige
+Software Engineer Intern at OjaExpress
+Chicago
+
+Education
+
+Illinois Institute of Technology
+Bachelor's degree, Computer Science (2017 - 2021)
+
+Experience
+
+Illinois Institute of Technology
+OTS PC Labs - Lab & Audio/Visual Assistant
+January 2019 - Present (1 year 9 months)
+Chicago, Illinois
+
+OjaExpress
+Software Engineer Intern
+June 2020 - September 2020 (4 months)
+Chicago, Illinois
+
+Major League Hacking
+ScarletHacks - Virtual Reality Winner
+November 2017 - November 2017 (1 month)
+Illinois Institute of Technology
+
+Google
+Computer Science Summer Institute Student
+July 2017 - August 2017 (2 months)
+Chicago, Illinois
+• Participated in an arduous programming learning Institute led by Google engineers.
+• Learned and utilized Python, HTML, CSS, JavaScript, and Google‘s App Engine to develop a responsive web application.
+• Developed a web app that housed blogs one was interested in from different blog sites.
+
+Top Skills
+- Python
+- Flutter
+- Dart
+- Java
+
+Honors-Awards
+- Generation Google Scholar
+- Collens Scholar
+- CME Group Foundation Scholar
