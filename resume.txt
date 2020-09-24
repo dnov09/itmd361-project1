@@ -42,3 +42,9 @@ Honors-Awards
 - Generation Google Scholar
 - Collens Scholar
 - CME Group Foundation Scholar
+
+Requirements
+------------
+- Two spaces indented cascade. Each child element should be indented 2 space right of its parent.
+- Create a bulleted list at the top of each page. The list items will be the file names of all 3 pages
+- Include at least three HTML images and one other form of media
