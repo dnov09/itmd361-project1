@@ -1,7 +1,7 @@
 What i need to fix
 -------------------
-1. Make a homepage at least one page
+1. Make a homepage at least one page (done)
 2. Children should be indented to the right of their parents
 3. Empty lines of code ONLY b/wn <head> and <body>, or between <section>
 4. Add audio and video link
-5. Remove styling(width) from navigation
+5. Remove styling(width) (done)
